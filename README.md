@@ -5,7 +5,7 @@ If so, here's a solution for you!
 A Chrome extension that adds a banner on the top for .local and .test domains and puts [DEV] prefix in the title
 
 How to install:
-- Clone this repository `git clone github.com/icefist/dev-alert`
+- Clone this repository `git clone git@github.com:icefist/dev-alert.git`
 - Open `chrome://extensions` in your Chrome
 - Click to enable `Developer mode` on the top _right_ corner of the page
 - Click on `Load unpacked` on the top _left_ corner (just under the logo)
